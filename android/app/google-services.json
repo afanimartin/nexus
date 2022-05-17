@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "455726659422",
+    "project_id": "nexus-fintech",
+    "storage_bucket": "nexus-fintech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455726659422:android:39a309fd25eedaf347c1cf",
+        "android_client_info": {
+          "package_name": "com.example.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455726659422-of78j7r11kksc470dpaf9m44vjknams7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nexus",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "455726659422-ti5bjf2of5p9rq8risf5ea3uc38fargn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_m_22REmcSORvFGQTNU87rS9gsK9lNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455726659422-ti5bjf2of5p9rq8risf5ea3uc38fargn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455726659422-ervbl350rduv8t3b7suvetf080g7i6ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unity.nexus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455726659422:android:0ae8c0cc321efb0747c1cf",
+        "android_client_info": {
+          "package_name": "com.unity.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455726659422-hthdah117r7p7g1m8tkk3ps1rg1ldg2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unity.nexus",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "455726659422-ti5bjf2of5p9rq8risf5ea3uc38fargn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_m_22REmcSORvFGQTNU87rS9gsK9lNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455726659422-ti5bjf2of5p9rq8risf5ea3uc38fargn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455726659422-ervbl350rduv8t3b7suvetf080g7i6ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unity.nexus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
